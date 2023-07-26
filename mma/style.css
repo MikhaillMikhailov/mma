@@ -1,0 +1,32 @@
+h1{
+    font-size: 40px;
+    color: red;
+    margin-left: 200px;
+       
+}
+#contacts{
+    font-size: 40px;
+    color:blue;
+    margin-left: 200px;
+}
+img{
+    border-radius: 200px;
+    margin-left: 180px;
+}
+body{
+    background-color: blueviolet;
+}
+h2{
+    font-size: 30px;
+    color:rgb(40, 172, 0);
+    margin-left: 230px;
+    
+}
+.photo:hover {
+    border: 3px solid #d8be2d;
+}
+p{
+font-size: 30px;
+    color:rgb(17, 0, 172);
+    margin-left: 230px;
+}
